@@ -1,0 +1,7 @@
+2023-05-14 23:22:44,854 - Server started
+2023-05-14 23:22:51,246 - connected from ADDRESS : ('127.0.0.1', 63893)
+2023-05-14 23:22:56,857 - Server received : eat
+2023-05-14 23:22:56,857 - Server sent : 'manger'
+2023-05-14 23:22:59,571 - Server received : quit
+2023-05-14 23:22:59,572 - Client disconnected
+2023-05-14 23:22:59,572 - Server closed

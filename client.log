@@ -1,0 +1,5 @@
+2023-05-14 23:22:51,245 - Client connected
+2023-05-14 23:22:56,857 - Client sent : eat
+2023-05-14 23:22:56,857 - Client received : Defenition: manger
+2023-05-14 23:22:59,571 - Client sent : quit
+2023-05-14 23:22:59,572 - Client disconnected
